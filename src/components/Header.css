@@ -1,0 +1,36 @@
+#header{
+    margin:0;
+    padding:0;
+    height:15vh;
+    width:100%;
+    background-color:aliceblue ;
+}
+.Heading{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    display: flex;
+    font-size: 2em;
+    padding-top: 0.7em;
+    padding-left: 0.7em;
+}
+#nav-bar{
+    display: flex;
+
+   
+    width:min-content;
+}
+ul{
+    margin-left:50em;
+    margin-top: 2em;
+    display:flex;
+    justify-self: flex-end;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+.nav-link{
+    font-size: 1.2em;
+    color: black;
+    margin-left:10px;
+    margin-right:10px;
+}
