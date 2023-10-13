@@ -34,3 +34,8 @@ ul{
     margin-left:10px;
     margin-right:10px;
 }
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
